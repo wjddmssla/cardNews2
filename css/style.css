@@ -80,3 +80,13 @@ overflow: hidden;
 
 .arrow.left { left: -70px; } 
 .arrow.right { right: -70px; } 
+
+.fixed2 {
+  position: fixed;
+  right: 100px;
+  bottom: 80px;
+}
+
+.fixed2:hover {
+  opacity: 0.8;
+}
